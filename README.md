@@ -7,3 +7,4 @@
 - 🌱 Currently, I'm deepening my knowledge in Advanced Machine Learning 🤖, Analytics for Unstructured Data 🧠, Optimization 📊, and Marketing Analytics 📈
 - 💞️ I’m eager to collaborate on SQL scripts 📝, Data Science projects with significant business impact 💼, and Data Visualization 📊
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/pranvgarg/) 💼
+- 🌐︎ Check out my [Website](https://pranvgarg.github.io)
