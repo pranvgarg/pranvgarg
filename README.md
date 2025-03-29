@@ -38,9 +38,10 @@
 
 ### 🧠 Large Language Models (LLMs)
 <p align="left">
-  <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-8A2BE2?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-rounded&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-rounded&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-1F425F?style=flat-rounded&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=flat-rounded&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-rounded&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-8A2BE2?style=flat-rounded&logo=streamlit&logoColor=white" />
 </p>
