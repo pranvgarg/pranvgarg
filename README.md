@@ -12,19 +12,20 @@
 ---
 
 🤝 Open To Collaborate On
-• Data Science Projects with tangible business value
-•	Scalable and optimized SQL workflows
-•	Interactive dashboards and storytelling with data
-•	Experimentation with LLM tools like LangGraph, LangChain, and Streamlit
+- Data Science Projects with tangible business value
+- Scalable and optimized SQL workflows
+- Interactive dashboards and storytelling with data
+- Experimentation with LLM tools like LangGraph, LangChain, and Streamlit
 
 ---
 
 💼 Certifications
-•	Microsoft Azure Fundamentals
-•	Snowflake: Data Warehouse
-•	Coupa Analytics
-•	Statistics Foundations
-•	Collibra Data Governance
+- Microsoft Azure Fundamentals
+- Snowflake: Data Warehouse
+- Coupa Analytics
+- Statistics Foundations
+- Collibra Data Governance
+- (More in progress)
  
 ---
  
