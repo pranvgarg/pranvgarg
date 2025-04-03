@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-rounded&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-rounded&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-rounded&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=flat-rounded&logo=redis&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -44,7 +43,6 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-rounded&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-rounded&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-rounded&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-rounded&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 🤖 AI & Machine Learning
