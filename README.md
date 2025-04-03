@@ -9,7 +9,7 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/pranvgarg/) 💼
 - 🌐︎ Check out my [Website](https://pranvgarg.github.io)
 
-⸻
+---
 
 🤝 Open To Collaborate On
 	•	Data Science Projects with tangible business value
@@ -17,7 +17,7 @@
 	•	Interactive dashboards and storytelling with data
 	•	Experimentation with LLM tools like LangGraph, LangChain, and Streamlit
 
- ⸻
+---
 
 💼 Certifications
 	•	Microsoft Azure Fundamentals
@@ -26,7 +26,7 @@
 	•	Statistics Foundations
 	•	Collibra Data Governance
  
- ⸻
+---
  
 ## 💻 Tech Stack
 
